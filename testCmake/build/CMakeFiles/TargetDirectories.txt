@@ -1,0 +1,3 @@
+/mnt/c/Users/OWNER/Documents/mydoc/C++/testCmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/OWNER/Documents/mydoc/C++/testCmake/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/OWNER/Documents/mydoc/C++/testCmake/build/CMakeFiles/a.out.dir

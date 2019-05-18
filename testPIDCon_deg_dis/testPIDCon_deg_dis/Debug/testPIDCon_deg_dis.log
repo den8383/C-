@@ -1,0 +1,6 @@
+﻿  PIDCon.cpp
+  PIDCon_deg_dis.cpp
+c:\users\owner\desktop\gitdir\programs\c++\testpidcon_deg_dis\testpidcon_deg_dis\pidcon_deg_dis.cpp(6): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+c:\users\owner\desktop\gitdir\programs\c++\testpidcon_deg_dis\testpidcon_deg_dis\pidcon_deg_dis.cpp(7): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  コードを生成中...
+  testPIDCon_deg_dis.vcxproj -> C:\Users\OWNER\Desktop\gitdir\programs\C++\testPIDCon_deg_dis\Debug\testPIDCon_deg_dis.exe
